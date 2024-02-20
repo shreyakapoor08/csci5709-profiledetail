@@ -1,4 +1,4 @@
-# Tutorial 3
+# Tutorial 4
 
 * *Date Created*: 19 FEB 2024
 * *Last Modification Date*: 19 FEB 2024
@@ -44,7 +44,7 @@ const filteredUsers = users.filter(user => {
   });
   ```
 
-  - The code was used to have an understanding on how the search filterworks
+- The code was used to have an understanding on how the search filterworks
  
 - I used the code because I wanted to implement the search functionality based on the names.
  
